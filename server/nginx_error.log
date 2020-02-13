@@ -1,0 +1,2 @@
+2019/10/11 16:28:05 [error] 1146#1146: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 183.172.140.83, server: 49.233.76.172, request: "GET / HTTP/1.1", upstream: "uwsgi://127.0.0.1:8001", host: "49.233.76.172"
+2019/10/11 16:33:21 [error] 1146#1146: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 223.72.45.81, server: 49.233.76.172, request: "POST /register/ HTTP/1.1", upstream: "uwsgi://127.0.0.1:8001", host: "49.233.76.172"
